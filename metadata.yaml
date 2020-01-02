@@ -1,0 +1,28 @@
+_repo: Floating-Fancies-among-the-Weird-and-the-Occult_61005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Clara H.
+    gutenberg_agent_id: '51220'
+    url: http://www.gutenberg.org/2009/agents/51220
+description: ''
+gutenberg_issued: '2019-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61005'
+  lccn: '33007784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: Nordhung Nordjansen -- In the beyond -- The tragedy of the gnomes
+  -- An unfair exchange -- Limitations -- A tale of two pictures -- A nineteenth century
+  ghost -- What became of the money? -- His friend -- A tale of the X ray -- An averted
+  tragedy.
+title: Floating Fancies among the Weird and the Occult
+url: http://www.gutenberg.org/ebooks/61005
