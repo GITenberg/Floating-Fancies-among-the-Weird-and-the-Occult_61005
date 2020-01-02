@@ -1,11 +1,16 @@
 _repo: Floating-Fancies-among-the-Weird-and-the-Occult_61005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61005-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Clara H.
     gutenberg_agent_id: '51220'
     url: http://www.gutenberg.org/2009/agents/51220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61005#Floating-Fancies-among-the-Weird-and-the-Occult
 gutenberg_issued: '2019-12-23'
 gutenberg_type: Text
 identifiers:
